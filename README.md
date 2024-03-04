@@ -1,4 +1,4 @@
-<p align="center">Cheats made by someone who knows more about what they're doing</p>
+<p align="center">Cheats don't work currently</p>
 <h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
