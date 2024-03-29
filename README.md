@@ -1,4 +1,4 @@
-<p align="center">Cheats don't work currently</p>
+<p align="center">this cheat is longer maintained as I got banned on Blooket</p>
 <h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
