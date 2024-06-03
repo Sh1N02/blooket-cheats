@@ -1,4 +1,6 @@
 <p align="center">this cheat is longer maintained as I got banned on Blooket</p>
+<p align="center">And somehow this repo is on the top of the search results on some search engines.</p>
+<h3 align="center"><a href="https://github.com/005Konz/Blooket-Cheats">Get the new one updated by Konz here</a></h2>
 <h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
@@ -7,8 +9,8 @@
 <details><summary><h3>How to use</h3></summary>
 
 There are 3 good methods to using these scripts:
-1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/05Konz/Blooket-Cheats/blob/main/tutorial/readme.md)
-2. Going to the [GitHub pages site](https://05konz.github.io/Blooket-Cheats), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
+1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/005Konz/Blooket-Cheats/blob/main/tutorial/readme.md)
+2. Going to the [GitHub pages site](https://github.com/005Konz/Blooket-Cheats), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
 3. Copying a script and running it in the inspect element console
 </details>
 
@@ -19,7 +21,7 @@ We don't actually know what to do about this or how to fix it, sorry.
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use](https://github.com/05Konz/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/05Konz/Blooket-Cheats/issues)
+Make sure you're running it properly (see [How to use](https://github.com/005Konz/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/005Konz/Blooket-Cheats/issues)
 </details>
 
 <details><summary><h3>Which script should I use to make a bookmarklet?</h3></summary>
