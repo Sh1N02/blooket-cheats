@@ -1,6 +1,6 @@
 <p align="center">this cheat is longer maintained as I got banned on Blooket</p>
 <p align="center">And somehow this repo is on the top of the search results on some search engines.</p>
-<h3 align="center"><a href[="https://github.com/DannyDan0167/Blooket-Cheats-Plus">Get an improved and better one here</a></h2>
+<h3 align="center"><a href[="https://github.com/DannyDan0167/Blooket-Cheats-Plus">Get an improved and better Blooket cheats here</a></h2>
 <h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
